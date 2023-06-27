@@ -1,0 +1,60 @@
+<html>
+
+<head>
+
+<title>Ordered and Unordered Lists</title>
+
+<body bgcolor="pink" font="blue">
+
+</head>
+
+<body>
+
+<font color="blue">
+
+<h1> 
+<u> Ordered and Unordered Lists </u>
+ </h1>
+
+<ol type="a">
+
+<li>Sunflower</li>
+
+<li>Rose</li>
+
+</ol>
+
+<ol type="A">
+
+<li>Tulip</li>
+
+<li>Lily</li>
+
+</ol>
+
+<ol type="I">
+
+<li>Jasmine</li>
+
+<li>Lotus</li>
+
+</ol>
+
+<ul>
+
+<li>The Great Pyramid of Giza (Egypt)</li>
+
+<li>The Hanging Gardens of Babylon (Iraq)</li>
+</ul>
+<ul>
+<li>The Temple of Artemis of Ephesus (Turkey)</li>
+<li>The Mausoleum at Halicarnassus (Turkey)</li>
+</ul>
+<ul type="circle">
+<li>The Colossus of Rhodes (Greece)</li>
+<li>The Statue of Zeus at Olympia (Greece)</li>
+<li>The Lighthouse at Alexandria (Egypt)</li>
+</ul>
+</font>
+</body>
+</html>
